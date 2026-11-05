@@ -1,5 +1,7 @@
-<a href="https://aicollaboration.vercel.app/HaroldShah398/#e00f4fa45f22b728"><img src="readme/card.svg?v=1793617180" alt="" width="1600" /></a>
+<div align="center">
 
-Building small tools and experiments, and this is where it shows up.
+<a href="https://dataannotation.vercel.app/HaroldShah398/#e00f4fa45f22b728">
+  <img src="https://raw.githubusercontent.com/HaroldShah398/HaroldShah398/main/readme/card-1793881683.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/HaroldShah398/#e00f4fa45f22b728)
+</div>
